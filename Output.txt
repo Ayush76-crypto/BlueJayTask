@@ -1,0 +1,47 @@
+-------- FROM JUPYTER NOTEBOOK
+-------- OUTPUT COPY AND PASTED
+-------- OUTPUT IN THE FORMAT OF PDF
+
+The NAME and POSITION of employees
+A) who has worked for 7 consecutive days
+
+Employees who worked for 7 consecutive days:
++-----------------------------------+-------------+
+|           Employee Name           | Position ID |
++-----------------------------------+-------------+
+|    REdrigAez, AXexis GAMierrez    |  WFS000505  |
+| VaXderraCa CasMiXXE, Escar FaGiaW |  WFS000573  |
++-----------------------------------+-------------+
+
+The NAME and POSITION of employees
+B) who have less than 10 hours of time between shifts but greater than 1 hour
+
+	Employee Name	Position ID
+53	CaMaXaWE, CeghaW	WFS000153
+162	Xee, XaCar	WFS000200
+276	De Xa Cerda, IgWaciE	WFS000318
+301	MraW, WiXXiaC Ha	WFS000345
+591	CEreira Jr, JEse	WFS000456
+939	GrACfieXd, CErWeXiAs	WFS000515
+1036	DeXgadiXXE REdarMe, ChrisMiaW S	WFS000523
+1074	HaCiXMEW, DeaWMe DevEW	WFS000536
+1161	REdrigAez, GraWdEW AWgeX	WFS000550
+1327	CarMer, XyWWeXX DejAaW Jr	WFS000576
+
+
+The NAME and POSITION of employees
+C) Who has worked for more than 14 hours in a single shift
+
+Employee Name	Position ID
+2	REsaXiaWE, XAis	WFS000065
+21	Sparks, KeWWeMh	WFS000101
+41	GaXCes, EXias XEpez	WFS000127
+56	CaMaXaWE, CeghaW	WFS000153
+72	Arias, FeXipe	WFS000170
+...	...	...
+1409	ArCeWMa FXEres, JEWaMhaW	WFS000584
+1427	RaCEs HerWaWdez, AdieX ECar	WFS000585
+1444	XariEs, Cesar GiEvaWWi	WFS000587
+1464	AGeX, WaMhaW REGerM PeWa	WFS000588
+1474	WgAyeW, RayCEWd	WFS000589
+95 rows × 2 columns
